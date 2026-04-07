@@ -1,7 +1,7 @@
-# Movie Tracker App
+# moviewatchd
 
 ## 📌 Application Description and Purpose
-The Movie Tracker app is a Laravel-based web application that allows users to track movies they have watched. Users can rate movies, leave comments, upload posters, categorize them, and manage the list efficiently. The purpose of this application is to provide a user-friendly interface to keep a personal movie journal with advanced features like search, filters, soft delete, and restore.
+moviewtachd is a Laravel-based web application that allows users to track movies they have watched. Users can rate movies, leave comments, upload posters, categorize them, and manage the list efficiently. The purpose of this application is to provide a user-friendly interface to keep a personal movie journal with advanced features like search, filters, soft delete, and restore.
 
 ---
 
